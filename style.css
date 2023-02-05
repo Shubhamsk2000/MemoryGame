@@ -29,4 +29,7 @@ body{
     #grid {
       width: 98%;
     }
+    #grid img{
+        width: 28%;
+    }
   }
